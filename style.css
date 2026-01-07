@@ -1,0 +1,13 @@
+body {
+    background-color: #eef2f7;
+}
+
+.container {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+h2, h3 {
+    font-weight: 600;
+}
